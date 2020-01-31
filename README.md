@@ -1,1 +1,3 @@
-# prime-number
+-- Check if a number is prime or not<br />
+-- Prompt the user to input a whole number<br />
+-- 
